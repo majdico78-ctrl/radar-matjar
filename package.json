@@ -1,0 +1,15 @@
+{
+  "name": "matjar-platform",
+  "version": "1.0.0",
+  "description": "منصة المتاجر — متاجر متعددة بصفحة إدارة مستقلة (#admin)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
